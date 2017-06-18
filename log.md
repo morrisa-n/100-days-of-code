@@ -12,7 +12,7 @@ Since I'm almost-but-not-quite a complete beginner, and not really proficient en
 ## Day 2: Sunday, June 18, 2017
 **Today's Progress**: Finished the [Make a Website](https://www.codecademy.com/learn/make-a-website) tutorial in ~40 minutes.
 
-**Thoughts**: The only really new-to-me stuff in the Make a Website tutorial was the Bootstrap stuff, and that's just fancy CSS. Not very thorough, but I wasn't expecting it to be. Their Learn HTML & CSS tutorial is on my to-do list, but not today. Today I switch gears and poke at Python some more.
+**Thoughts**: The only really new-to-me stuff in the Make a Website tutorial was the Bootstrap stuff, and that's just fancy CSS. Not very thorough, but I wasn't expecting it to be. Their [Learn HTML & CSS](https://www.codecademy.com/learn/learn-html-css) tutorial is on my to-do list, but not today. Next on today's agenda is more Python.
 
 **Link(s) to work**: 
 
