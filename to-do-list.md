@@ -18,3 +18,13 @@ A bunch of tutorials, mostly, since I'm an almost-but-not-quite complete beginne
 * [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [SoloLearn HTML Fundamentals Course](https://www.sololearn.com/Course/HTML/)
 * [SoloLearn CSS Fundamentals Course](https://www.sololearn.com/Course/CSS/)
+
+## Stuff I Want to Make/Do
+* Fix up [Writer Cracks the Code](https://writercracksthecode.neocities.org/) and turn it into something nice
+* Set up a blog on my [Github Page](http://morrisa-n.github.io), probably with Jekyll
+* Work on my [Choose Your Own Adventure](https://github.com/morrisa-n/CYOA) thing
+* Do some of [FreeCodeCamp's](https://www.freecodecamp.com) exercises in Python
+* Weather alert notification thing
+* Some kind of little astrology/personality thing
+* A tea timer, with different settings based on different kinds of tea
+* Roman numerals/numbers converter
