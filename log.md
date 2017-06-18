@@ -2,7 +2,7 @@
 
 ## Day 1: Saturday, June 17, 2017
 
-**Today's Progress**: Decided to start doing this
+**Today's Progress**: Decided to start doing this. Did first two lessons in Codecademy's [Make a Website](https://www.codecademy.com/learn/make-a-website) tutorial&mdash;Site Structure and A Closer Look at CSS.
 
 **Thoughts:** ~~Officially starting it tomorrow, because I like things to be nice and even like that.~~ <- Nevermind that. Ended up spending an hour doing a Codecademy tutorial, so I'm counting it as day one.
 
