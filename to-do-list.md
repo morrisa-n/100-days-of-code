@@ -18,6 +18,7 @@ A bunch of tutorials, mostly, since I'm an almost-but-not-quite complete beginne
 * [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [SoloLearn HTML Fundamentals Course](https://www.sololearn.com/Course/HTML/)
 * [SoloLearn CSS Fundamentals Course](https://www.sololearn.com/Course/CSS/)
+* [HTML Dog HTML & CSS Tutorials](http://htmldog.com/guides/)
 
 ## Stuff I Want to Make/Do
 * Fix up [Writer Cracks the Code](https://writercracksthecode.neocities.org/) and turn it into something nice
