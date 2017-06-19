@@ -1,5 +1,5 @@
 # My To-Do List
-A bunch of tutorials, mostly, since I'm an almost-but-not-quite complete beginner. Unless I do something original, I probably won't post the code.
+A bunch of tutorials, mostly, since I'm an almost-but-not-quite complete beginner. Unless I do something original, I probably won't post the code. I may not do all of these.
 
 ## Python
 * Finish working through [The Self-Taught Programmer](https://smile.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA)
