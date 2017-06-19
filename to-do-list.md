@@ -29,3 +29,4 @@ A bunch of tutorials, mostly, since I'm an almost-but-not-quite complete beginne
 * Some kind of little astrology/personality thing
 * A tea timer, with different settings based on different kinds of tea
 * Roman numerals/numbers converter
+* Find out how Python, Apache web server, and SQLite go together, and do stuff with that
