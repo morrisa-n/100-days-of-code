@@ -1,10 +1,15 @@
 # I've joined the #100DaysOfCode Challenge.
 
 ## Contents
-* [Rules](rules.md)
+* [Rules](https://github.com/morrisa-n/100-days-of-code/blob/master/challenge-files/rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [FAQ](https://github.com/morrisa-n/100-days-of-code/blob/master/challenge-files/FAQ.md)
+* [Resources](https://github.com/morrisa-n/100-days-of-code/blob/master/challenge-files/resources.md)
+
+### My Stuff
+* [My To-Do List](to-do-list.md)
+* [My Tutorial Answers Folder](https://github.com/morrisa-n/100-days-of-code/tree/master/tutorial-answers)
+* [My "Little Projects" Folder](https://github.com/morrisa-n/Little-Projects)
 
 ## If you've decided to join:
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
@@ -21,3 +26,7 @@
 ## Note
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+
+## Morrisa's Notes
+* I moved most of the major docs for this into the [challenge files](https://github.com/morrisa-n/100-days-of-code/tree/master/challenge-files) folder.
+* I probably won't be tweeting.
