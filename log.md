@@ -29,10 +29,11 @@ And scratch that about not working on the Learn HTML & CSS tutorial. I did some 
 ---
 
 ## Day 3: Monday, June 19, 2017
-**Today's Progress**: 
+**Today's Progress**: Got started on the [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page) project on [FreeCodeCamp](https://www.freecodecamp.com/). Probably spent well over an hour on it alone. It's still rough, but I've made significant progress. Next up: Python.
 
-**Thoughts**: 
+**Thoughts**: I chose to honor my late dog for the Tribute Page challenge, because he deserves it. He is very sorely missed.
 
 **Link(s) to work**:
+* [Tribute Page](https://github.com/morrisa-n/freecodecamp/tree/master/Project-Drafts/Tribute)
 
 **Goals for Tomorrow**:
