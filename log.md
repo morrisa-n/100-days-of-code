@@ -34,6 +34,7 @@ And scratch that about not working on the Learn HTML & CSS tutorial. I did some 
 **Thoughts**: I chose to honor my late dog for the Tribute Page challenge, because he deserves it. He is very sorely missed.
 
 **Link(s) to work**:
-* [Tribute Page](https://github.com/morrisa-n/freecodecamp/tree/master/Project-Drafts/Tribute)
+* [Tribute Page Code](https://github.com/morrisa-n/freecodecamp/tree/master/Project-Drafts/Tribute)
+* [Tribute Page](https://writercracksthecode.neocities.org/Tribute/index.html)
 
 **Goals for Tomorrow**:
