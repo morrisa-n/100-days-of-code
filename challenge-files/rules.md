@@ -10,8 +10,8 @@ June 17, 2017
 1. ~~I will tweet about my progress every day -> using the hashtag #100DaysOfCode~~ - I'm bending this rule, since I don't like connecting my real name and my Twitter account.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](https://github.com/morrisa-n/100-days-of-code/blob/master/log.md))
+4. I will update the [Log](log.md) with the day's progress and provide a link so that others can see my progress.
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](faq.md))
 
 
 ## Ideas to make this challenge more effective
@@ -23,6 +23,6 @@ June 17, 2017
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](https://github.com/morrisa-n/100-days-of-code/blob/master/log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
