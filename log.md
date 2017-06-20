@@ -29,12 +29,29 @@ And scratch that about not working on the Learn HTML & CSS tutorial. I did some 
 ---
 
 ## Day 3: Monday, June 19, 2017
-**Today's Progress**: Got started on the [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page) project on [FreeCodeCamp](https://www.freecodecamp.com/). Probably spent well over an hour on it alone. It's still rough, but I've made significant progress. Next up: Python.
+**Today's Progress**: Got started on the [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page) project on [FreeCodeCamp](https://www.freecodecamp.com/). Probably spent well over an hour on it alone. It's still rough, but I've made significant progress. ~~Next up: Python.~~
+
+Later: Declared the Tribute Page done enough to submit on FCC. Ended up getting sucked into the Responsive Web Design course on the FreeCodeCamp Beta. Didn't get to Python.
 
 **Thoughts**: I chose to honor my late dog for the Tribute Page challenge, because he deserves it. He is very sorely missed.
+
+I let myself get sucked into HTML and CSS stuff today. And have started considering whether I want to stick to Python or switch to JavaScript, since I seem more drawn to the front-end of things. I like playing with HTML and CSS, and JS makes them tick, soooo...
 
 **Link(s) to work**:
 * [Tribute Page Code](https://github.com/morrisa-n/freecodecamp/tree/master/Project-Drafts/Tribute)
 * [Tribute Page](https://writercracksthecode.neocities.org/Tribute/index.html)
+
+**Goals for Tomorrow**:
+* More FCC beta
+* More Python?
+
+---
+
+## Day 4: Tuesday, June 20, 2017
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to Work**:
 
 **Goals for Tomorrow**:
