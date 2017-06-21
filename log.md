@@ -48,10 +48,22 @@ I let myself get sucked into HTML and CSS stuff today. And have started consider
 ---
 
 ## Day 4: Tuesday, June 20, 2017
+**Today's Progress**: Spent most of the day poking at the FCC Portfolio challenge. Haven't upload what I have so far yet. Pretty sure I spent way over an hour on it, though.
+
+**Thoughts**: I really like working with HTML and CSS. Integrating Bootstrap&mdash;especially in ways that keep it looking different from all of the cookie-cutter Bootstrap sites out there is definitely a challenge.
+
+**Link(s) to Work**: None yet
+
+**Goals for Tomorrow**:
+* Having some major dental work done tomorrow, so my only goal is to get an hour of *something* done.
+
+---
+
+## Day 5: Wednesday, June 21, 2017
 **Today's Progress**:
 
 **Thoughts**:
 
 **Link(s) to Work**:
 
-**Goals for Tomorrow**:
+**Goals for Tomorrow**
