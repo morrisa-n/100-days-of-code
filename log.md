@@ -60,10 +60,11 @@ I let myself get sucked into HTML and CSS stuff today. And have started consider
 ---
 
 ## Day 5: Wednesday, June 21, 2017
-**Today's Progress**:
+**Today's Progress**: I didn't do anything. I spent the morning bracing myself for dental stuff, and spent the afternoon with my face half-numb and half-in pain, and my meds knocked me out. But! My smile looks a ***lot*** better now, so it was all worth it.
 
-**Thoughts**:
+**Thoughts**: No regrets for skipping a day.
 
 **Link(s) to Work**:
 
 **Goals for Tomorrow**
+* Keep healing, and if I feel up to it, get *something* done.
