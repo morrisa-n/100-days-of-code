@@ -4,8 +4,10 @@
 It turns out getting nine teeth pulled in one day is very painful and can knock you on your knees for over a week. Who'da thunk it? I spent about a week getting absolutely *nothing* done, and since I'd been doing this for less than a week when my family went, "Hey, wanna finally go get some dentures?" I'm just starting over.
 
 **Todays' Progress:**
+Still working on my FCC Portfolio, like I was doing on the original [Day Four](https://github.com/morrisa-n/100-days-of-code/blob/master/log.md#day-4-tuesday-june-20-2017).
 
 **Thoughts:**
+I need to figure out how to make all of the elements resize the way I want them to when I resize the browser window and whatnot...
 
 **Link(s) to Work:**
 
