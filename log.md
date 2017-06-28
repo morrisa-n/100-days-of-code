@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## NEW Day 1: Wednesday, June 28, 2017
+It turns out getting nine teeth pulled in one day is very painful and can knock you on your knees for over a week. Who'da thunk it? I spent about a week getting absolutely *nothing* done, and since I'd been doing this for less than a week when my family went, "Hey, wanna finally go get some dentures?" I'm just starting over.
+
+**Todays' Progress:**
+
+**Thoughts:**
+
+**Link(s) to Work:**
+
+**Tomorrow's Goals:**
+
+
+---
+
 ## Day 1: Saturday, June 17, 2017
 **Today's Progress**: Decided to start doing this. Did first two lessons in Codecademy's [Make a Website](https://www.codecademy.com/learn/make-a-website) tutorial&mdash;Site Structure and A Closer Look at CSS.
 
